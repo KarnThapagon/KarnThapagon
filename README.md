@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KarnThapagon
 - 👀 I’m interested in workout, novels and world history
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Java and Database tool
+- I've studied HTML, CSS, Go, Javascript, Python 
 
 
 <!---
