@@ -36,4 +36,4 @@
 ## Let's Connect  
 - 📧 Email: [Thapagon.M@gmail.com](mailto:Thapagon.M@gmail.com)  
 - 💼 LinkedIn: [Thapagon Meekaew](https://www.linkedin.com/in/thapagon-meekaew/)  
-- 📄 [View My Resume](./Thapagon Meekaew resume.pdf)  
+- 📄 View My Resume: [Thapagon Meekaew resume.pdf](https://github.com/KarnThapagon/KarnThapagon/blob/main/Thapagon%20Meekaew%20resume.pdf)
